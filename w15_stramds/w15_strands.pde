@@ -3,7 +3,7 @@ String s1 = "AGCGTCGAGCTTGGTGATAC";
 String s2 = "ATCGTCCAGCTATGTGATAC";
 String s3 = "CAATCACCTGAGTATCGCGA";
 
-int NUC_SIZE = 30;
+int NUC_SIZE = 40;
 
 void setup() {
   size(800, 200);
